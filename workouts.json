@@ -4,5 +4,23 @@
         "Sets": 3,
         "Reps": 10,
         "Weight": "bodyweight"
+    },
+    {
+        "Exercise": "dips",
+        "Sets": 4,
+        "Reps": 12,
+        "Weight": "bodyweight"
+    },
+    {
+        "Exercise": "push ups",
+        "Sets": 3,
+        "Reps": 12,
+        "Weight": "bodyweight"
+    },
+    {
+        "Exercise": "L sit",
+        "Sets": 3,
+        "Reps": 10,
+        "Weight": "bodyweight"
     }
 ]
