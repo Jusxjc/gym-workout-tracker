@@ -1,0 +1,10 @@
+exercise= input("Enter an exercise: ")
+sets= int(input("Enter sets: "))
+reps= int(input("Enter reps: "))
+weight= (input("Enter weight (or bodyweight): "))
+
+print("Workout added:")
+print("Exercise:", exercise)
+print("Sets:", sets)
+print("Reps:", reps)
+print("Weight:", weight)
